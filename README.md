@@ -1,7 +1,3 @@
-Sure, here’s a friendly, clear, and motivating **README.md** you can use for your vocab PDF generator project — it highlights how it saves college students hours of manual typing:
-
----
-
 ```markdown
 # Tough Vocabulary PDF Generator
 
